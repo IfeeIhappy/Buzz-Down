@@ -1,7 +1,7 @@
 {
-  "name": "alloyproxy",
+  "name": "aherneproxy",
   "version": "1.0.0",
-  "description": "A powerful web proxy!",
+  "description": "A powerful web proxy made for aherne!",
   "main": "app.js",
   "scripts": {
     "test": "proxy",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/titaniumnetwork-dev/alloyproxy.git"
+    "url": "git+https://github.com/IfeeIhappy/aherne-proxy.git"
   },
   "keywords": [
     "web-proxy"
@@ -17,9 +17,9 @@
   "author": "titaniumnetwork-dev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/titaniumnetwork-dev/alloyproxy/issues"
+    "url": "https://github.com/IfeeIhappy/aherne-proxy/issues"
   },
-  "homepage": "https://github.com/titaniumnetwork-dev/alloyproxy#readme",
+  "homepage": "https://github.com/IfeeIhappy/aherne-proxy#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.5",
